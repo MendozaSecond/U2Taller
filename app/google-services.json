@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430307825635",
+    "project_id": "u2taller",
+    "storage_bucket": "u2taller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430307825635:android:9af22b3ac3b300ebddb2d6",
+        "android_client_info": {
+          "package_name": "com.example.u2taller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSplHrQdaRIoHrlLHNtk1bAXKN3w4Kv7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
